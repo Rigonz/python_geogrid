@@ -22,5 +22,6 @@ The distances between the points are calculated with geodesic formulas (not have
 The results are saved as a csv file with the coordinates of the grid points, and as a geojson file with the polygons created from four (rectangularly) adjacent points.
 
 The following snapshots from a QGIS view of Europe (EPSG:4326) show two grids: one created with "creategrid" at a 1x1 degree spacing, and the other with the results of the script with a 100 km side.
-![creategrid](https://github.com/Rigonz/python_geogrid/blob/master/pics/EPSG4326%20qgis.png)
-![geogrid](https://github.com/Rigonz/python_geogrid/blob/master/pics/EPSG4326%20grid.png)
+
+<img src="https://github.com/Rigonz/python_geogrid/blob/master/pics/EPSG4326%20qgis.png" width="800" height="553" alt="creategrid">
+<img src="https://github.com/Rigonz/python_geogrid/blob/master/pics/EPSG4326%20grid.png" width="800" height="424" alt="geogrid">
